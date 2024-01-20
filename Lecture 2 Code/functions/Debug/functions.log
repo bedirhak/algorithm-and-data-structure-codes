@@ -1,0 +1,3 @@
+﻿  functions.cpp
+c:\users\bedirhan\source\repos\project1\functions\functions.cpp(96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  functions.vcxproj -> C:\Users\Bedirhan\source\repos\Project1\Debug\functions.exe
