@@ -1,0 +1,5 @@
+﻿  structure.cpp
+c:\users\bedirhan\source\repos\structures\structures\structure.cpp(128): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\bedirhan\source\repos\structures\structures\structure.cpp(96): warning C4101: 'myStudents': unreferenced local variable
+c:\users\bedirhan\source\repos\structures\structures\structure.cpp(98): warning C4101: 'i': unreferenced local variable
+  structures.vcxproj -> C:\Users\Bedirhan\source\repos\structures\Debug\structures.exe
